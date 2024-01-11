@@ -1,0 +1,209 @@
+{
+  "project_info": {
+    "project_number": "903925693197",
+    "firebase_url": "https://bookmart-bb77b-default-rtdb.firebaseio.com",
+    "project_id": "bookmart-bb77b",
+    "storage_bucket": "bookmart-bb77b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903925693197:android:958f1d1745fe44342ace44",
+        "android_client_info": {
+          "package_name": "com.example.ads_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903925693197-et6740rucvr93c6eaqq21rvno67p9oto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ads_integration",
+            "certificate_hash": "cd9044470540aec772b25d7c9f1a4f0d50c37f7a"
+          }
+        },
+        {
+          "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4B5Jh3wgDVjRuKLE4twxfAkt28ltU5iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903925693197:android:7c7003d454cd579a2ace44",
+        "android_client_info": {
+          "package_name": "com.example.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4B5Jh3wgDVjRuKLE4twxfAkt28ltU5iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903925693197:android:4017937981a359152ace44",
+        "android_client_info": {
+          "package_name": "com.example.bookmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903925693197-7jmnp19kmnj7iuqk8m90ll6cr1aba4jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookmart",
+            "certificate_hash": "cd9044470540aec772b25d7c9f1a4f0d50c37f7a"
+          }
+        },
+        {
+          "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4B5Jh3wgDVjRuKLE4twxfAkt28ltU5iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903925693197:android:b7fe0462a7e6ad752ace44",
+        "android_client_info": {
+          "package_name": "com.example.dailyrewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4B5Jh3wgDVjRuKLE4twxfAkt28ltU5iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903925693197:android:4be966e1805ffc072ace44",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4B5Jh3wgDVjRuKLE4twxfAkt28ltU5iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903925693197:android:52678cf36aafc1212ace44",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903925693197-kb6rlh406bnp3gkop8edoa09uibnnqh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplicationotp",
+            "certificate_hash": "cd9044470540aec772b25d7c9f1a4f0d50c37f7a"
+          }
+        },
+        {
+          "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4B5Jh3wgDVjRuKLE4twxfAkt28ltU5iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903925693197-q6sfmmjgiqhjj7o1nfg3g76pnabcpq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
